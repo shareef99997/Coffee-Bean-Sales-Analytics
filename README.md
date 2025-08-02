@@ -1,6 +1,6 @@
 ﻿# ☕ Coffee Bean Sales Analytics – Power BI Dashboard  
 📊 **End-to-End Power BI Case Study | Regional Sales | Product Demand | Discount Behavior**  
-🌐 **[🔗 View Live Dashboard (Power BI Web)]([https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMmI3ZTg0YTUtZWNmMS00OTQ1LTg3ZjYtMDRmYjdlYzAyY2I5IiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9))**
+🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiMmI3ZTg0YTUtZWNmMS00OTQ1LTg3ZjYtMDRmYjdlYzAyY2I5IiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)**
 
 <p align="center">
     <b>Dashboard Overview</b>  
@@ -123,4 +123,5 @@ This dashboard is part of my portfolio to demonstrate interactive BI reporting f
 🔗 **[Personal Website](https://www.shareefdev.com)**  
 
 📢 **If this dashboard helped or inspired you, consider leaving a ⭐ on GitHub!**  
+
 
